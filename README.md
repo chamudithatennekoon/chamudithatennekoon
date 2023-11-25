@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamudithatennekoon&label=Profile%20views&color=0e75b6&style=flat" alt="chamudithatennekoon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamudithatennekoon" alt="chamudithatennekoon" /></a> </p>
-
 - 🔭 I’m currently working on [Centre for Research National Hospital Kandy as Web Administrator](https://c4rnhk.org)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamudithatennekoon" alt="chamudithatennekoon" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
