@@ -14,6 +14,8 @@
     <li>Advanced Level in Commerce Stream - Dharmaraja College, Kandy (2016)</li>
 </ul>  
 
+🌍 I'm constantly seeking opportunities to collaborate, innovate, and grow. Let's connect and explore how we can make a positive impact together in the exciting world of software development.
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamudithatennekoon" alt="chamudithatennekoon" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
