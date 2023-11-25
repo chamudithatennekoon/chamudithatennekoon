@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamudithatennekoon&label=Profile%20views&color=0e75b6&style=flat" alt="chamudithatennekoon" /> </p>
 
+💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot, Angular, Node.js, and MySQL. My skill set extends to building robust web applications and managing Linux VPS servers. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
+
 - 🔭 I’m currently working on [Centre for Research National Hospital Kandy as Web Administrator](https://c4rnhk.org)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamudithatennekoon" alt="chamudithatennekoon" /></a> </p>
